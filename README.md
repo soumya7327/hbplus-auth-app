@@ -28,20 +28,7 @@ A cross-platform authentication app built with Expo, React Native, React Native 
 | Firebase Authentication | User authentication and email verification |
 | Netlify | Hosting the web app |
 
-## Screenshots
 
-Add actual screenshots from your app to the paths below to display them here.
-
-| Sign-in screen | Dashboard |
-|---|---|
-| `docs/screenshots/sign-in.png` | `docs/screenshots/dashboard.png` |
-
-When you add the image files, you can use these Markdown links instead:
-
-```markdown
-![Sign-in screen](docs/screenshots/sign-in.png)
-![Dashboard](docs/screenshots/dashboard.png)
-```
 
 ## Requirements
 
